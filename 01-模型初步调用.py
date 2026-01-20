@@ -1,3 +1,5 @@
+#基础调用
+#%%
 import os
 from langchain.chat_models import init_chat_model
 from langchain.messages import SystemMessage, HumanMessage, AIMessage
